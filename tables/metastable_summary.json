@@ -1,0 +1,107 @@
+{
+  "equilibrium_resample_max_rel_dP": 5.3074045334744734e-12,
+  "equilibrium_resample_max_rel_dE": 4.24679393484681e-13,
+  "homogeneous_equals_equilibrium_outside_dome_max_rel_dP": 0.0,
+  "band_nodes": 64056,
+  "metastable_table_E_increasing_in_T": true,
+  "columns_with_nonincreasing_E": [],
+  "energy_offset_erg_g": 1024653469.2181387,
+  "isotherms": [
+    {
+      "T_K": 299.99999999999994,
+      "rho_liquid_binodal": 2.701,
+      "rho_liquid_spinodal_node": 1.72,
+      "P_sat_GPa": 9.501930224776583e-52,
+      "P_min_band_GPa": -4.979333273287122,
+      "band_nodes": 768
+    },
+    {
+      "T_K": 595.8444557028795,
+      "rho_liquid_binodal": 2.604,
+      "rho_liquid_spinodal_node": 1.6099999999999999,
+      "P_sat_GPa": 7.783722886823815e-27,
+      "P_min_band_GPa": -4.38060106781201,
+      "band_nodes": 679
+    },
+    {
+      "T_K": 930.8031714785008,
+      "rho_liquid_binodal": 2.479,
+      "rho_liquid_spinodal_node": 1.5527902153311015,
+      "P_sat_GPa": 1.912190666910097e-16,
+      "P_min_band_GPa": -3.8588659807852235,
+      "band_nodes": 556
+    },
+    {
+      "T_K": 1505.4425794290166,
+      "rho_liquid_binodal": 2.307,
+      "rho_liquid_spinodal_node": 1.45,
+      "P_sat_GPa": 1.532874844748989e-09,
+      "P_min_band_GPa": -3.0927003641634028,
+      "band_nodes": 389
+    },
+    {
+      "T_K": 1983.2347450576306,
+      "rho_liquid_binodal": 2.174,
+      "rho_liquid_spinodal_node": 1.37,
+      "P_sat_GPa": 6.241377626178378e-07,
+      "P_min_band_GPa": -2.5370158888513483,
+      "band_nodes": 260
+    },
+    {
+      "T_K": 2739.807163804084,
+      "rho_liquid_binodal": 1.96,
+      "rho_liquid_spinodal_node": 1.23,
+      "P_sat_GPa": 0.00010043346608149282,
+      "P_min_band_GPa": -1.7665671955448154,
+      "band_nodes": 91
+    },
+    {
+      "T_K": 3483.678085680667,
+      "rho_liquid_binodal": 1.72,
+      "rho_liquid_spinodal_node": 1.0888537066431356,
+      "P_sat_GPa": 0.001720780785727941,
+      "P_min_band_GPa": -1.1160784943928028,
+      "band_nodes": 77
+    },
+    {
+      "T_K": 3965.932649549908,
+      "rho_liquid_binodal": 1.54,
+      "rho_liquid_spinodal_node": 1.0,
+      "P_sat_GPa": 0.006617701520672235,
+      "P_min_band_GPa": -0.7477542883722118,
+      "band_nodes": 65
+    },
+    {
+      "T_K": 4511.181538725823,
+      "rho_liquid_binodal": 1.31,
+      "rho_liquid_spinodal_node": 0.8824131048963095,
+      "P_sat_GPa": 0.022974213187062578,
+      "P_min_band_GPa": -0.37930476634898375,
+      "band_nodes": 41
+    },
+    {
+      "T_K": 5018.197355052037,
+      "rho_liquid_binodal": 1.04,
+      "rho_liquid_spinodal_node": 0.7480192442545042,
+      "P_sat_GPa": 0.060952443224206475,
+      "P_min_band_GPa": -0.09144974525402412,
+      "band_nodes": 11
+    },
+    {
+      "T_K": 5307.041267481712,
+      "rho_liquid_binodal": 0.8824131048963095,
+      "rho_liquid_spinodal_node": 0.6383453369331169,
+      "P_sat_GPa": 0.10005957482560487,
+      "P_min_band_GPa": 0.04540738748863411,
+      "band_nodes": 3
+    },
+    {
+      "T_K": 5493.497320312015,
+      "rho_liquid_binodal": 0.7480192442545042,
+      "rho_liquid_spinodal_node": 0.5511575178096244,
+      "P_sat_GPa": 0.13490182607691942,
+      "P_min_band_GPa": 0.12129400808327408,
+      "band_nodes": 2
+    }
+  ]
+}
